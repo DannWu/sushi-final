@@ -1,0 +1,10 @@
+{
+  "name": "recipe1309", 
+  "title": "Lasagna", 
+  "date": "2013-09-01", 
+  "description": "Lasagna noodles piled high and layered full of three kinds of cheese to go along with the perfect blend of meaty and zesty, tomato pasta sauce all loaded with herbs.", 
+  "mainImageUrl": "img/home/lasagna-1.png",
+  "images": ["lasagna-1.png","lasagna-2.png","lasagna-3.png","lasagna-4.png"],
+  "ingredients": ["lasagna pasta", "tomatoes", "onions", "ground beef", "garlic", "cheese", "salt", "water", "black pepper", "parsley"],
+  "directions": "In a skillet over medium heat, brown ground beef, onion and garlic; drain fat. Mix in basil, oregano, brown sugar, 1 1/2 teaspoons salt, diced tomatoes and tomato paste. Simmer for 30 to 45 minutes, stirring occasionally. Preheat oven to 375 degrees F (190 degrees C). Bring a large pot of lightly salted water to a boil. Add lasagna noodles, and cook for 5 to 8 minutes, or until al dente; drain. Lay noodles flat on towels, and blot dry. Bake in the preheated oven 30 minutes. Let stand 10 minutes before serving."
+}
