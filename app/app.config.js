@@ -6,7 +6,7 @@ angular.module('recipeApp').
                 when('/', {
                     template: '<recipe-list></recipe-list>'
                 }).
-                when('/recipes/:recipeId', {
+                when('/recipes/:recipeName', {
                     template: '<recipe-detail></recipe-detail>'
                 }).
                 otherwise('/recipes');

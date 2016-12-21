@@ -8,7 +8,7 @@ angular.module('recipeDetail').component('recipeDetail', {
                 self.mainImageUrl = imageUrl;
             };
 
-            $http.get('data/' + $routeParams.recipeId + '.json').then(function (response) {
+            $http.get('http://localhost:3004/api/recipes/' + $routeParams.recipeName).then(function (response) {
                 self.recipe = response.data;
                 self.setImage(self.recipe.images[0]);
             });

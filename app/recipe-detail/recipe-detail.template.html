@@ -1,7 +1,7 @@
 <div class="parent" itemscope itemtype="http://schema.org/Recipe">
 
 	<div class="images">
-		<h2>{{ $ctrl.recipe.title }}</h2>
+		<h2>{{ $ctrl.recipe.name }}</h2>
 
 		<img ng-src="img/home/{{$ctrl.mainImageUrl}}" class="recipe-detail-image" />
 
@@ -24,7 +24,7 @@
 
 		<p>
 		<h1>Directions:</h1>
-			{{ $ctrl.recipe.directions}}
+			{{ $ctrl.recipe.directions }}
 		</p>
 	</div>
 
